@@ -1,0 +1,14 @@
+.mb-3 {
+    margin-top: 20px;
+}
+body {
+    background-color: rgb(237, 232, 103);
+}
+.btn.btn-primary{
+    border-radius: 20px;
+}
+h2 {
+    text-align:center;
+    margin-top: 20px;
+    color:red;
+}
